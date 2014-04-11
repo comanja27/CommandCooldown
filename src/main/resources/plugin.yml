@@ -1,0 +1,9 @@
+name: CommandCooldown
+version: 1.0
+author: Brandon Curtis
+main: com.saico.commandcooldown.CommandCooldown
+dependancies: [Commons]
+permissions:
+    cmdcooldown.override:
+        description: Player not subject to command cooldown
+        default: false
